@@ -47,7 +47,7 @@ This project combines the power of data, machine learning, and real-world releva
 
 # OUTPUT:
 
-
+<img width="704" height="470" alt="Image" src="https://github.com/user-attachments/assets/dfed1b7d-ed1d-4978-b7d7-4c0a60cc4beb" />
 
 
 <img width="507" height="504" alt="Image" src="https://github.com/user-attachments/assets/3d9104da-d159-4502-b851-60204ae3913f" />
