@@ -45,4 +45,8 @@
 # CONCLUSION:
 This project combines the power of data, machine learning, and real-world relevance. By predicting AI’s impact on different jobs, we can better prepare for the future of work. The analysis supports informed decision-making and promotes proactive skill development, ensuring people stay ahead in a fast-changing job market.
 
+# OUTPUT:
+
+<img width="704" height="470" alt="Image"a27-4ec0-b5a9-feadd4940bce" /> src="https://github.com/user-attachments/assets/e1211775-1a27-4ec0-b5a9-feadd4940bce" />
+
 
